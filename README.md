@@ -2,7 +2,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone <URL-репозитория>
+    git clone https://github.com/Hanger12/QAPython.git
     ```
 
 2. Установите зависимости:
@@ -48,4 +48,3 @@ python test_saucedemo.py
 ```bash
 cd GitHub_API
 python test_api.py
-```
