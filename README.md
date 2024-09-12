@@ -24,6 +24,7 @@
 
 Запустите тест:
 ```bash
+cd e2e_tests
 python test_saucedemo.py
 ```
 # Проект автоматического теста для работы с GitHub API
@@ -45,4 +46,6 @@ python test_saucedemo.py
 
 Для запуска теста выполните:
 ```bash
+cd GitHub_API
 python test_api.py
+```

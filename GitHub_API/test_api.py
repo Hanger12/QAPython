@@ -53,7 +53,7 @@ def delete_repo(repo_name):
 
 
 def test_github_api():
-    """Основная функция для тестирования GitHub API"""
+    """Основная функция для тестирования GitHub_API"""
     # Шаг 1: Создание репозитория
     create_repo(REPO_NAME)
 
